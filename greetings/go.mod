@@ -1,3 +1,3 @@
-module github.com/CampGrounds/hello-universe/greetings
+module github.com/CampGrounds/hello-universe/tree/main/greetings
 
 go 1.21.5
